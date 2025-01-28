@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tuliosarto7
-- 🌱 I’m currently learning HTML, CSS, javascript e React.
+- 🌱 I’m currently learning HTML, CSS, Javascript and Python.
 - 📫 How to reach me: tulio.sarto400@gmail.com
 
 <!---
